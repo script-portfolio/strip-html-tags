@@ -1,9 +1,8 @@
 # strip-html-tags
 
-Script to recursive strip html tags
+##Script to recursive strip html tags
 
-Here again
-
+##Run
 
 perl strip-html-tags.pl
 > Input: <body><div class="contents"><div><strong>Hello World</strong></div></div></body>
